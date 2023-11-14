@@ -1,0 +1,23 @@
+Forest Green: #228B22
+
+This deep green shade represents lush forests and the natural environment.
+Leaf Green: #4CAF50
+
+A vibrant green reminiscent of fresh leaves, adding energy and positivity.
+Sky Blue: #87CEEB
+
+A light blue that signifies the sky and oceans, creating a sense of openness and travel.
+Earth Brown: #8B4513
+
+A warm brown that represents the earth, grounding the color palette.
+Mountain Gray: #A9A9A9
+
+A neutral gray resembling mountains, providing balance to the palette.
+These colors can be used for various elements on your website, such as backgrounds, buttons, text, and icons. Feel free to adjust the shades based on your preferences, but keeping a nature-inspired theme will align well with the concept of green travel.
+
+When using these colors, consider the following applications:
+
+Primary Background: Forest Green or Sky Blue for a clean and inviting look.
+Buttons and Accents: Leaf Green for buttons and interactive elements to draw attention.
+Text: Use Earth Brown or Mountain Gray for text to ensure readability.
+Icons and Highlights: Mix Leaf Green and Sky Blue for icons and highlighted elements.
