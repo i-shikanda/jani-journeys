@@ -1,3 +1,4 @@
+import Contact from "./components/contact/contact";
 import Footer from "./components/footer/footer";
 import Nav from "./components/nav/nav";
 import Image from "next/image";
@@ -21,6 +22,7 @@ export default function Home() {
         <header>
           <Nav />
         </header>
+        <div>
         <div className="flex justify-between space-x-4">
           <div id="calltoaction">
             <h1 className="font-bold text-2xl uppercase">
@@ -34,7 +36,19 @@ export default function Home() {
               </button>
             </a>
           </div>
-          <div>Social Media Icons</div>
+          <div>
+            <div>Social Media Icons</div>
+            <div>Download Sustainable Travel E Book</div>
+          </div>
+        </div>
+        <div className="w-full">
+          <h1>
+            About Us
+          </h1>
+          <p>
+            About Us in a Brief
+          </p>
+        </div>
         </div>
       </section>
       <section id="feautereddestinations">
@@ -101,6 +115,9 @@ export default function Home() {
           <div>Renewable Energy Usage</div>
           <div>Local Community Engagement</div>
         </div>
+      </section>
+      <section>
+        <Contact/>
       </section>
       <section id="greentraveltips">
         <div id="engaging graphics">
