@@ -22,33 +22,29 @@ export default function Home() {
         <header>
           <Nav />
         </header>
-        <div>
-        <div className="flex justify-between space-x-4">
-          <div id="calltoaction">
-            <h1 className="font-bold text-2xl uppercase">
-              Embark on <br /> Eco-Friendly Journeys with <br />{" "}
-              <span className="text-green-600">Jani Journey</span> <br /> Your
-              Environment Partners.
-            </h1>
-            <a href="">
-              <button className="px-4 py-2 rounded-sm bg-green-00 button font-medium">
-                Plan Your Green Journey
-              </button>
-            </a>
+        <div className="px-20 h-[100vh]">
+          <div className="flex justify-between space-x-4">
+            <div id="calltoaction">
+              <h1 className="font-black text-6xl uppercase">
+                Embark on <br /> Eco-Friendly Journeys with <br />{" "}
+                <span className="text-white-600">Jani Journey</span>
+              </h1>
+              <p>Your Environment Partners.</p>
+              <a href="">
+                <button className="px-4 py-2 rounded-sm bg-green-00 button font-medium">
+                  Plan Your Green Journey
+                </button>
+              </a>
+            </div>
+            <div>
+              <div>Social Media Icons</div>
+              <div>Download Sustainable Travel E Book</div>
+            </div>
           </div>
-          <div>
-            <div>Social Media Icons</div>
-            <div>Download Sustainable Travel E Book</div>
+          <div className="w-full bg-white rounded-md bg-opacity-10 backdrop-blur-md backdrop;filter h-[20vh] ">
+            <h1>About Us</h1>
+            <p>About Us in a Brief</p>
           </div>
-        </div>
-        <div className="w-full">
-          <h1>
-            About Us
-          </h1>
-          <p>
-            About Us in a Brief
-          </p>
-        </div>
         </div>
       </section>
       <section id="feautereddestinations">
@@ -117,7 +113,7 @@ export default function Home() {
         </div>
       </section>
       <section>
-        <Contact/>
+        <Contact />
       </section>
       <section id="greentraveltips">
         <div id="engaging graphics">
